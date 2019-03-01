@@ -2,27 +2,18 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp2.2</TargetFramework>
-
-    <IsPackable>false</IsPackable>
-
-    <Description>By leveraging some features of MSTest, this extension turns AutoFixture into a declarative framework for writing unit tests. In many ways it becomes a unit testing DSL (Domain Specific Language).</Description>
-
-    <PackageLicenseUrl>https://licenses.nuget.org/MIT</PackageLicenseUrl>
-
-    <PackageIconUrl>https://github.com/andreykarinskiy/Autofixture.MSTest/autofixture.ico</PackageIconUrl>
-
-    <PackageProjectUrl>https://github.com/andreykarinskiy/Autofixture.MSTest</PackageProjectUrl>
-
-    <RepositoryUrl>https://github.com/andreykarinskiy/Autofixture.MSTest</RepositoryUrl>
-
-    <PackageTags>Autofixture MSTest</PackageTags>
-
     <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Description>By leveraging some features of MSTest, this extension turns AutoFixture into a declarative framework for writing unit tests. In many ways it becomes a unit testing DSL (Domain Specific Language).</Description>
+    <PackageLicenseUrl>https://licenses.nuget.org/MIT</PackageLicenseUrl>
+    <PackageProjectUrl>https://github.com/andreykarinskiy/Autofixture.MSTest</PackageProjectUrl>
+    <PackageIconUrl>https://github.com/andreykarinskiy/Autofixture.MSTest/autofixture.ico</PackageIconUrl>
+    <RepositoryUrl>https://github.com/andreykarinskiy/Autofixture.MSTest</RepositoryUrl>
+    <PackageTags>Autofixture MSTest</PackageTags>
+    <RepositoryType>GIT</RepositoryType>
   </PropertyGroup>
 
   <ItemGroup>
     <PackageReference Include="AutoFixture" Version="4.8.0" />
-    <PackageReference Include="Microsoft.NET.Test.Sdk" Version="16.0.0" />
     <PackageReference Include="MSTest.TestAdapter" Version="1.4.0" />
     <PackageReference Include="MSTest.TestFramework" Version="1.4.0" />
   </ItemGroup>
