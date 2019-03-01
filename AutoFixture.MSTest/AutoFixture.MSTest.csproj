@@ -6,15 +6,15 @@
     <Description>By leveraging some features of MSTest, this extension turns AutoFixture into a declarative framework for writing unit tests. In many ways it becomes a unit testing DSL (Domain Specific Language).</Description>
     <PackageLicenseUrl>https://licenses.nuget.org/MIT</PackageLicenseUrl>
     <PackageProjectUrl>https://github.com/andreykarinskiy/Autofixture.MSTest</PackageProjectUrl>
-    <PackageIconUrl>https://github.com/andreykarinskiy/Autofixture.MSTest/autofixture.ico</PackageIconUrl>
+    <PackageIconUrl>https://raw.githubusercontent.com/AutoFixture/AutoFixture/master/AutoFixtureLogo200x200.png</PackageIconUrl>
     <RepositoryUrl>https://github.com/andreykarinskiy/Autofixture.MSTest</RepositoryUrl>
-    <PackageTags>Autofixture MSTest</PackageTags>
+    <PackageTags>AutoFixture MSTest</PackageTags>
     <RepositoryType>GIT</RepositoryType>
     <Version>1.0.0</Version>
-    <PackageId>AutoFixture.MSTest-V2</PackageId>
+    <PackageId>AutоFiхture.MSTеst</PackageId>
     <Authors>Andrey Karinskiy</Authors>
     <Company />
-    <Product>AutoFixture.MSTest-V2</Product>
+    <Product>AutоFiхture.MSTеst</Product>
   </PropertyGroup>
 
   <ItemGroup>
