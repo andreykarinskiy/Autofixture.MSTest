@@ -10,6 +10,11 @@
     <RepositoryUrl>https://github.com/andreykarinskiy/Autofixture.MSTest</RepositoryUrl>
     <PackageTags>Autofixture MSTest</PackageTags>
     <RepositoryType>GIT</RepositoryType>
+    <Version>1.0.1</Version>
+    <PackageId>AutoFixture.MSTest V2</PackageId>
+    <Authors>Andrey Karinskiy</Authors>
+    <Company />
+    <Product>AutoFixture.MSTest V2</Product>
   </PropertyGroup>
 
   <ItemGroup>
